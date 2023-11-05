@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="8.108">
-    <testcase classname="Trello da yer alan fonksiyonlar test edilir" name="Update a board ile renk degistirilir" time="7.483">
-        <system-out><![CDATA[Given Api kullanicisi "1/boards/645109eea08583e4623b90dd" path parametreleri set eder.passed
-Given "key", "token" ve "renk" query parametreleriyle gunceller eder........passed
-Then api kullanicisi Put request gonderir...................................passed
-]]></system-out>
-    </testcase>
-</testsuite>
